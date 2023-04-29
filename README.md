@@ -1,1 +1,1 @@
-# cmpe172
+# CMPE 172 Project Journal
